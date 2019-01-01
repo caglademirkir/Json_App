@@ -1,0 +1,26 @@
+[
+    {
+        "firstname" : "Çağla",
+        "lastname" : "Demirkır",
+        "age" : 24,
+        "retired" : false
+    },
+    {
+        "firstname" : "Ersin",
+        "lastname" : "Demirkır",
+        "age" : 33,
+        "retired" : false
+    },
+    {
+        "firstname" : "Suna",
+        "lastname" : "Demirkır",
+        "age" : 31,
+        "retired" : false
+    },
+    {
+        "firstname" : "Ali",
+        "lastname" : "Demirkır",
+        "age" : 64,
+        "retired" : true
+    }
+]
